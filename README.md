@@ -80,8 +80,7 @@ cd ridesharing-app</code></pre>
     </li>
 </ol>
 
-<h2 id="screenshots">Screenshots</h2>
-<p><em>Include screenshots of your app here</em></p>
+
 
 <h2 id="built-with">Built With</h2>
 <ul>
